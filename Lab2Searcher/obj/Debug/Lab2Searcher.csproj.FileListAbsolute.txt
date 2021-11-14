@@ -1,0 +1,12 @@
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\bin\Debug\Books.xml
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\bin\Debug\IntermedFile.xsl
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\bin\Debug\Lab2Searcher.exe.config
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\bin\Debug\Lab2Searcher.exe
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\bin\Debug\Lab2Searcher.pdb
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.Form1.resources
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.Properties.Resources.resources
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.csproj.GenerateResource.cache
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.exe
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.pdb
+C:\Users\nedav\source\repos\Lab2Searcher\Lab2Searcher\obj\Debug\Lab2Searcher.csprojAssemblyReference.cache

@@ -1,0 +1,186 @@
+﻿<?xml version='1.0' ?> 
+  <read_books>
+    <book>
+      <title>Will you be there?</title>
+      <author>Guillaume Musso</author>
+      <genre>Romance novel, Fiction</genre>
+      <first_publication>2006</first_publication>
+      <country>France</country>
+    </book>
+    
+    <book>
+      <title>The Man Who Wanted to Be Happy</title>
+      <author>Laurent Gounelle</author>
+      <genre>Psychological realism</genre>
+      <first_publication>2008</first_publication>
+      <country>France</country>
+    </book>
+    
+    <book>
+      <title>Gone with the Wind</title>
+      <author>Margaret Mitchell</author>
+      <genre>Romance novel, Historical fiction</genre>
+      <first_publication>1936</first_publication>
+      <country>United States</country>
+    </book>
+    
+    <book>
+      <title>The Secret Garden</title>
+      <author>Frances Hodgson Burnett</author>
+      <genre>Children's novel</genre>
+      <first_publication>1911</first_publication>
+      <country>United States and United Kingdom</country>
+    </book>
+
+    <book>
+      <title>Anne of Green Gables</title>
+      <author>Lucy Maud Montgomery</author>
+      <genre>Children's novel</genre>
+      <first_publication>1908</first_publication>
+      <country>Canada</country>
+    </book>
+
+    <book>
+      <title>The Picture of Dorian Gray</title>
+      <author>Oscar Wilde</author>
+      <genre>Philosophical fiction</genre>
+      <first_publication>1890</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>The Door into Summer</title>
+      <author>Robert Anson Heinlein</author>
+      <genre>Science fiction</genre>
+      <first_publication>1957</first_publication>
+      <country>United States</country>
+    </book>
+    
+    <book>
+      <title>Flowers for Algernon</title>
+      <author>Daniel Keyes</author>
+      <genre>Science fiction</genre>
+      <first_publication>1966</first_publication>
+      <country>United States</country>
+    </book>
+
+    <book>
+      <title>The Minds of Billy Milligan</title>
+      <author>Daniel Keyes</author>
+      <genre>Biography</genre>
+      <first_publication>1981</first_publication>
+      <country>United States</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Philosopher's Stone</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>1997</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Chamber of Secrets</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>1998</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Prisoner of Azkaban</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>1999</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Goblet of Fire</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>2000</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Order of the Phoenix</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>2003</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Half-Blood Prince</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>2005</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>Harry Potter and the Deathly Hallows</title>
+      <author>Joanne Rowling</author>
+      <genre>Fantasy</genre>
+      <first_publication>2007</first_publication>
+      <country>United Kingdom</country>
+    </book>
+    
+    <book>
+      <title>The Fault in Our Stars</title>
+      <author>John Green</author>
+      <genre>Romance novel</genre>
+      <first_publication>2012</first_publication>
+      <country>United States</country>
+    </book>
+    
+    <book>
+      <title>Amphibian Man</title>
+      <author>Alexander Belayev</author>
+      <genre>Science fiction , Adventure novel</genre>
+      <first_publication>1928</first_publication>
+      <country>The Union of Soviet Socialist Republics</country>
+    </book>
+
+    <book>
+      <title>Elevation</title>
+      <author>Stephen King</author>
+      <genre>Fiction</genre>
+      <first_publication>2018</first_publication>
+      <country>United States</country>
+    </book>
+
+    <book>
+      <title>The Adventures of Tom Sawyer</title>
+      <author>Mark Twain</author>
+      <genre>Children's novel , Adventure novel</genre>
+      <first_publication>1876</first_publication>
+      <country>United States</country>
+    </book>
+
+    <book>
+      <title>The Gift of the Magi</title>
+      <author>O. Henry</author>
+      <genre>Short story</genre>
+      <first_publication>1905</first_publication>
+      <country>United States</country>
+    </book>
+
+    <book>
+      <title>Leader of the Redskins</title>
+      <author>O. Henry</author>
+      <genre>Short story</genre>
+      <first_publication>1907</first_publication>
+      <country>United States</country>
+    </book>
+
+    <book>
+      <title>Mary Poppins</title>
+      <author>Pamela Lyndon Travers</author>
+      <genre>Children's novel</genre>
+      <first_publication>1934</first_publication>
+      <country>United Kingdom</country>
+    </book>
+  </read_books>

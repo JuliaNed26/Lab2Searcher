@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2Searcher", "Lab2Searcher\Lab2Searcher.csproj", "{595A317E-E694-4AFC-A4CF-E688F31DE4A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B79DE96-9935-4529-89B9-238A5B79425E}"
+	ProjectSection(SolutionItems) = preProject
+		IntermedFile.xsl = IntermedFile.xsl
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595A317E-E694-4AFC-A4CF-E688F31DE4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595A317E-E694-4AFC-A4CF-E688F31DE4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595A317E-E694-4AFC-A4CF-E688F31DE4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595A317E-E694-4AFC-A4CF-E688F31DE4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1979DDE8-98AD-41DB-ACC3-7B6DACAE766D}
+	EndGlobalSection
+EndGlobal
